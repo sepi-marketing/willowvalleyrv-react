@@ -1,0 +1,307 @@
+{
+  "url": "https://willowvalleyrv.com/local-attractions/",
+  "slug": "local-attractions",
+  "path": "/local-attractions/",
+  "title": "Local Attractions – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "234f523"
+    },
+    {
+      "id": "7a25d2e",
+      "container": "234f523",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Local Attractions"
+    },
+    {
+      "id": "2ba96ab",
+      "container": "234f523",
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "id": "f1d39f2"
+    },
+    {
+      "id": "49e4f1c",
+      "container": "f1d39f2",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-1.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-1.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    },
+    {
+      "id": "9fdf391",
+      "container": "f1d39f2",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Black Rock Mountain State Park"
+    },
+    {
+      "id": "83489b1",
+      "container": "f1d39f2",
+      "type": "text-editor",
+      "html": "<p>Georgia’s highest state park encompasses some of the most outstanding scenery in Georgia’s Blue Ridge Mountains. <a href=\"https://gastateparks.org/BlackRockMountain\"><span><strong>Click here for more info.</strong></span></a></p>"
+    },
+    {
+      "id": "238e42a",
+      "container": "f1d39f2",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://gastateparks.org/BlackRockMountain"
+    },
+    {
+      "type": "section",
+      "id": "ff08f71"
+    },
+    {
+      "id": "4d182f4",
+      "container": "ff08f71",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Tallulah Gorge and State Park"
+    },
+    {
+      "id": "8851527",
+      "container": "ff08f71",
+      "type": "text-editor",
+      "html": "<p>Tallulah Gorge is one of the most spectacular canyons in the eastern U.S., Tallulah Gorge is two miles long and nearly 1,000 feet deep. Visitors can hike rim trails to several overlooks,<a href=\"https://gastateparks.org/TallulahGorge\"><span><strong> Click here for more info.</strong></span></a></p>"
+    },
+    {
+      "id": "acdbb4d",
+      "container": "ff08f71",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://gastateparks.org/TallulahGorge"
+    },
+    {
+      "id": "12bf507",
+      "container": "ff08f71",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-2.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-2.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    },
+    {
+      "type": "section",
+      "id": "26efef2"
+    },
+    {
+      "id": "b5d63a2",
+      "container": "26efef2",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-3.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-3.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    },
+    {
+      "id": "c8c1bcf",
+      "container": "26efef2",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Local Waterfall"
+    },
+    {
+      "id": "14747fb",
+      "container": "26efef2",
+      "type": "text-editor",
+      "html": "<p>Minnehaha Falls<br>Dick Creek Falls<br>Mud Creek Falls</p>"
+    },
+    {
+      "id": "a8da9ee",
+      "container": "26efef2",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://theblueridgehighlander.com/waterfalls_rabun_county_georgia.php"
+    },
+    {
+      "type": "section",
+      "id": "9de84fd"
+    },
+    {
+      "id": "bf7a488",
+      "container": "9de84fd",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Near-by Lakes and Fishing"
+    },
+    {
+      "id": "4f5a8f2",
+      "container": "9de84fd",
+      "type": "text-editor",
+      "html": "<p>Lake Burton<br>Lake Rabun<br>Lake Seed</p>"
+    },
+    {
+      "id": "c935967",
+      "container": "9de84fd",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://explorerabun.com/seed-lake/"
+    },
+    {
+      "id": "fe5b1e4",
+      "container": "9de84fd",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-4.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-4.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    },
+    {
+      "type": "section",
+      "id": "f93236d"
+    },
+    {
+      "id": "5b0d8e5",
+      "container": "f93236d",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-5.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-5.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    },
+    {
+      "id": "b65b5ed",
+      "container": "f93236d",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Local Wineries"
+    },
+    {
+      "id": "9930115",
+      "container": "f93236d",
+      "type": "text-editor",
+      "html": "<p><strong>12 Spies Vineyards – website:</strong><br><a href=\"http://12spiesvineyards.com/\">http://12spiesvineyards.com/</a><br><br><strong>Only 10 minutes from Willow Valley RV Resort Tiger Mountain Vineyards</strong> – website:&nbsp;<a href=\"http://tigerwine.com/\">http://tigerwine.com</a><br><br><strong>Stonewall Creek Vineyards</strong> – Website:&nbsp;<a href=\"http://stonewallcreek.com/\">http://stonewallcreek.com</a></p>"
+    },
+    {
+      "id": "1347f67",
+      "container": "f93236d",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://www.12spiesvineyards.com/"
+    },
+    {
+      "type": "section",
+      "id": "b90cc9b"
+    },
+    {
+      "id": "66a4ede",
+      "container": "b90cc9b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Local Golf"
+    },
+    {
+      "id": "0107f89",
+      "container": "b90cc9b",
+      "type": "text-editor",
+      "html": "<p><strong>Sky Valley Resort:</strong> –&nbsp;<a href=\"http://skyvalleycountryclub.com/\">http://skyvalleycountryclub.com/</a><br><br><strong>Kingwood Resort</strong>: – <a href=\"http://kingwoodresort.com/\">http://kingwoodresort.com/</a><br><br><strong>Rabun County Golf Course</strong> –&nbsp;<a href=\"https://www.rabungolf.com/\">https://www.rabungolf.com/</a></p>"
+    },
+    {
+      "id": "f49aef2",
+      "container": "b90cc9b",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://www.skyvalleycountryclub.com/"
+    },
+    {
+      "id": "83a4648",
+      "container": "b90cc9b",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-6.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-6.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    },
+    {
+      "type": "section",
+      "id": "d84a35d"
+    },
+    {
+      "id": "d2dd373",
+      "container": "d84a35d",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-7.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-7.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    },
+    {
+      "id": "ad0a196",
+      "container": "d84a35d",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Hiking Trails"
+    },
+    {
+      "id": "61299c0",
+      "container": "d84a35d",
+      "type": "text-editor",
+      "html": "<p>Visit here to learn about all the trails in the area.</p>"
+    },
+    {
+      "id": "e79cac9",
+      "container": "d84a35d",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://explorerabun.com/"
+    },
+    {
+      "type": "section",
+      "id": "00d87b5"
+    },
+    {
+      "id": "4552523",
+      "container": "00d87b5",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Antiques Flea Market"
+    },
+    {
+      "id": "5da5a68",
+      "container": "00d87b5",
+      "type": "text-editor",
+      "html": "<p>Dillard, Ga. – Many Antique stores<br>Rabun Flea Market / Across the Hwy from Willow Valley RV Resort.</p>"
+    },
+    {
+      "id": "5ee0068",
+      "container": "00d87b5",
+      "type": "button",
+      "text": "Visit Us",
+      "href": "https://www.dillardgeorgia.com/rabun-gap-flea-market/"
+    },
+    {
+      "id": "706a8f4",
+      "container": "00d87b5",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-8.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/things-to-do-8.jpg",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "caption": ""
+    }
+  ],
+  "backgrounds": {}
+}

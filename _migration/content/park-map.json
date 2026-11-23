@@ -1,0 +1,42 @@
+{
+  "url": "https://willowvalleyrv.com/park-map/",
+  "slug": "park-map",
+  "path": "/park-map/",
+  "title": "Park Map – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "c2a97e1"
+    },
+    {
+      "id": "757631a",
+      "container": "c2a97e1",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Park Map"
+    },
+    {
+      "id": "32b3da8",
+      "container": "c2a97e1",
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "id": "20bf79f"
+    },
+    {
+      "id": "456840f",
+      "container": "20bf79f",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2025/10/Willow-Valley-RV-Resort-2025Sitemap_-2048x1798.jpg",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2025/10/Willow-Valley-RV-Resort-2025Sitemap_.jpg",
+      "alt": "",
+      "w": 800,
+      "h": 702,
+      "caption": ""
+    }
+  ],
+  "backgrounds": {}
+}

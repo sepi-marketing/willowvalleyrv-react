@@ -1,0 +1,222 @@
+{
+  "url": "https://willowvalleyrv.com/amenities/",
+  "slug": "amenities",
+  "path": "/amenities/",
+  "title": "Amenities – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "5317415"
+    },
+    {
+      "id": "9a7b5a2",
+      "container": "5317415",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Amenities"
+    },
+    {
+      "type": "section",
+      "id": "03e1062"
+    },
+    {
+      "id": "b093998",
+      "container": "03e1062",
+      "type": "icon"
+    },
+    {
+      "id": "1c8324b",
+      "container": "03e1062",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Wifi"
+    },
+    {
+      "id": "b9ff44c",
+      "container": "03e1062",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Fiber Optics - 500 MB"
+    },
+    {
+      "id": "4508c29",
+      "container": "03e1062",
+      "type": "icon"
+    },
+    {
+      "id": "efd877c",
+      "container": "03e1062",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Children’s Playground"
+    },
+    {
+      "id": "93c2374",
+      "container": "03e1062",
+      "type": "icon"
+    },
+    {
+      "id": "9ccb30b",
+      "container": "03e1062",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Community Fire Pit"
+    },
+    {
+      "id": "d797786",
+      "container": "03e1062",
+      "type": "icon"
+    },
+    {
+      "id": "7c1ad3c",
+      "container": "03e1062",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Water and sewer"
+    },
+    {
+      "type": "section",
+      "id": "598f9d6"
+    },
+    {
+      "id": "cbb8e54",
+      "container": "598f9d6",
+      "type": "icon"
+    },
+    {
+      "id": "40ed38a",
+      "container": "598f9d6",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Laundry Room"
+    },
+    {
+      "id": "c34ce4a",
+      "container": "598f9d6",
+      "type": "icon"
+    },
+    {
+      "id": "ad3fb97",
+      "container": "598f9d6",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Basketball court"
+    },
+    {
+      "id": "ce15fda",
+      "container": "598f9d6",
+      "type": "icon"
+    },
+    {
+      "id": "97ffa7d",
+      "container": "598f9d6",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Family Games"
+    },
+    {
+      "id": "8f77b6a",
+      "container": "598f9d6",
+      "type": "icon"
+    },
+    {
+      "id": "cfde7c1",
+      "container": "598f9d6",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Pool with wading pool for small children"
+    },
+    {
+      "type": "section",
+      "id": "3ecd47b"
+    },
+    {
+      "id": "3823dcb",
+      "container": "3ecd47b",
+      "type": "icon"
+    },
+    {
+      "id": "48ae585",
+      "container": "3ecd47b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Cable TV"
+    },
+    {
+      "id": "f8e2fdc",
+      "container": "3ecd47b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "( over 40 channels)"
+    },
+    {
+      "id": "fd9aecb",
+      "container": "3ecd47b",
+      "type": "icon"
+    },
+    {
+      "id": "771dd6c",
+      "container": "3ecd47b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "6 private baths / Handicap Accessible"
+    },
+    {
+      "id": "c64c01c",
+      "container": "3ecd47b",
+      "type": "icon"
+    },
+    {
+      "id": "2dc2df7",
+      "container": "3ecd47b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Fenced Dog Park and Dog Washing Station"
+    },
+    {
+      "id": "7642b4a",
+      "container": "3ecd47b",
+      "type": "icon"
+    },
+    {
+      "id": "0ca9bae",
+      "container": "3ecd47b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Soccer"
+    },
+    {
+      "type": "section",
+      "id": "3701f9b"
+    },
+    {
+      "id": "043b652",
+      "container": "3701f9b",
+      "type": "icon",
+      "icon": "fas fa-water"
+    },
+    {
+      "id": "737257a",
+      "container": "3701f9b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Splash Pad"
+    },
+    {
+      "id": "b7a6c33",
+      "container": "3701f9b",
+      "type": "icon",
+      "icon": "fas fa-store-alt"
+    },
+    {
+      "id": "ed95704",
+      "container": "3701f9b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Pavilion"
+    }
+  ],
+  "backgrounds": {}
+}

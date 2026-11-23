@@ -1,0 +1,80 @@
+[
+  {
+    "type": "section",
+    "id": "71908ba"
+  },
+  {
+    "id": "541eae3",
+    "container": "71908ba",
+    "type": "heading",
+    "tag": "h2",
+    "text": "Contact Us"
+  },
+  {
+    "type": "section",
+    "id": "501b219"
+  },
+  {
+    "id": "0503553",
+    "container": "501b219",
+    "type": "icon",
+    "icon": "fas fa-phone"
+  },
+  {
+    "id": "dcf23a1",
+    "container": "501b219",
+    "type": "heading",
+    "tag": "h2",
+    "text": "706-746-0078",
+    "href": "tel:7067460078"
+  },
+  {
+    "id": "7ce4820",
+    "container": "501b219",
+    "type": "icon",
+    "icon": "far fa-envelope"
+  },
+  {
+    "id": "47ce8d3",
+    "container": "501b219",
+    "type": "heading",
+    "tag": "h2",
+    "text": "[email protected]",
+    "href": "tel:7067460078"
+  },
+  {
+    "id": "45ee4a9",
+    "container": "501b219",
+    "type": "icon",
+    "icon": "fas fa-location-arrow"
+  },
+  {
+    "id": "89a8221",
+    "container": "501b219",
+    "type": "heading",
+    "tag": "h2",
+    "text": "323 Yorkhouse Road Rabun Gap, GA 30568"
+  },
+  {
+    "type": "section",
+    "id": "16a9ea8"
+  },
+  {
+    "id": "8a74655",
+    "container": "16a9ea8",
+    "type": "heading",
+    "tag": "h2",
+    "text": "Copyright © 2025 Willow Valley Resort Park. All rights reserved. Website Design & Marketing by SEPI Marketing"
+  },
+  {
+    "type": "section",
+    "id": "7446c7b"
+  },
+  {
+    "id": "3bd6e43",
+    "container": "7446c7b",
+    "type": "button",
+    "text": "Book Now",
+    "href": "https://willow.bookmysites.com/reservations/checkout-availability"
+  }
+]

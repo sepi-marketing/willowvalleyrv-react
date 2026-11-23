@@ -1,0 +1,128 @@
+{
+  "url": "https://willowvalleyrv.com/upcoming-events/",
+  "slug": "upcoming-events",
+  "path": "/upcoming-events/",
+  "title": "Upcoming Events – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "5ec9327"
+    },
+    {
+      "id": "c1a1a17",
+      "container": "5ec9327",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Upcoming event"
+    },
+    {
+      "id": "cc1f04d",
+      "container": "5ec9327",
+      "type": "divider"
+    },
+    {
+      "id": "0eca412",
+      "container": "5ec9327",
+      "type": "lottie",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/calendar-events.json",
+      "settings": {
+        "source_json": {
+          "url": "https://willowvalleyrv.com/wp-content/uploads/2022/12/calendar-events.json",
+          "id": 1218,
+          "size": "",
+          "alt": "",
+          "source": "library"
+        },
+        "loop": "yes",
+        "source": "media_file",
+        "caption_source": "none",
+        "link_to": "none",
+        "trigger": "arriving_to_viewport",
+        "viewport": {
+          "unit": "%",
+          "size": "",
+          "sizes": {
+            "start": 0,
+            "end": 100
+          }
+        },
+        "play_speed": {
+          "unit": "px",
+          "size": 1,
+          "sizes": []
+        },
+        "start_point": {
+          "unit": "%",
+          "size": 0,
+          "sizes": []
+        },
+        "end_point": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "renderer": "svg"
+      }
+    },
+    {
+      "type": "section",
+      "id": "1349123",
+      "parent": "5ec9327"
+    },
+    {
+      "id": "e158d7e",
+      "container": "1349123",
+      "type": "heading",
+      "tag": "h2",
+      "text": "HalloweenFest"
+    },
+    {
+      "id": "364f3b4",
+      "container": "1349123",
+      "type": "heading",
+      "tag": "h2",
+      "text": "The last 2 weekends of October every year."
+    },
+    {
+      "type": "section",
+      "id": "4f2d4c7",
+      "parent": "5ec9327"
+    },
+    {
+      "id": "4ac5e8c",
+      "container": "4f2d4c7",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Thanksgiving Potluck"
+    },
+    {
+      "id": "bc08b12",
+      "container": "4f2d4c7",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Every year on Thanksgiving day."
+    },
+    {
+      "type": "section",
+      "id": "1941626",
+      "parent": "5ec9327"
+    },
+    {
+      "id": "156a714",
+      "container": "1941626",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Breakfast with the Easter Bunny"
+    },
+    {
+      "id": "2ba2c72",
+      "container": "1941626",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Every year on Easter Weekend."
+    }
+  ],
+  "backgrounds": {}
+}

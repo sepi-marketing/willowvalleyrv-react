@@ -1,0 +1,169 @@
+{
+  "url": "https://willowvalleyrv.com/customer-reviews/",
+  "slug": "customer-reviews",
+  "path": "/customer-reviews/",
+  "title": "Customer Reviews – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "8f61304"
+    },
+    {
+      "id": "c1ee75b",
+      "container": "8f61304",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Costumer Review"
+    },
+    {
+      "id": "709b1ca",
+      "container": "8f61304",
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "id": "bc17bb3"
+    },
+    {
+      "id": "b9498ca",
+      "container": "bc17bb3",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Willow Valley RV Resort"
+    },
+    {
+      "id": "76ba5c7",
+      "container": "bc17bb3",
+      "type": "star-rating",
+      "rating": "Rated 5 out of 5",
+      "title": ""
+    },
+    {
+      "type": "section",
+      "id": "d755fb5"
+    },
+    {
+      "id": "e59ddd5",
+      "container": "d755fb5",
+      "type": "reviews",
+      "items": [
+        {
+          "name": "Becky R Great RV park!",
+          "title": "Great RV park!",
+          "text": "Lovely RV park. Great location near lots of attractions, love the dog park with washing station, roomy, clean showers with good shelving for your toiletries, nice fire pit and great layout. Beautiful mountain views. Trash pickup every morning by your site. Already booked our next visit.",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/b-Labor-Day-5.jpg"
+        },
+        {
+          "name": "Debbie ASuch great owners",
+          "title": "Such great owners",
+          "text": "We had a 2 day stay at Willow Valley as we headed up to Sieverville, Tn. We had an issue with our breaks and called to say we might not make it on Friday. We got the issue handled enough to limp into Willow Valley late Friday evening. Sam tge owner came to check on us and told us of a Ford Dealership Duvall Ford that was owned by his friend Jeff. He called Jeff and got us in Saturday morning. The dealership was able to fix our truck. Without Sams help I don’t know what we would have done. Great RV park, Great owners and true southern hospitality.",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/b-Labor-Day-11.jpg"
+        },
+        {
+          "name": "midlifeadventurersGreat spot to make homebase",
+          "title": "Great spot to make homebase",
+          "text": "The location is perfect, we loved our week long stay at Willow Valley. Clean, quiet and very helpful staff. They had a band here last weekend that we enjoyed. We were able to take short drives to some of the most scenic drives we have ever taken. We visited a couple of other resorts in the area and were not impressed at all..we will gladly share the resorts info. With family and friends. Thanks for all you do to make this place memorable for all who stay here.",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/b-Labor-Day-18.jpg"
+        },
+        {
+          "name": "Sandra HAmazing!",
+          "title": "Amazing!",
+          "text": "This campground was amazing our first time there was July 2-5 it was a special time for us as we are spreading my husbands ashes on his 1 year anniversary in heaven the staff were amazing and Mayor Puddin was the sweetest person you could ever meet he made the point of asking us how our day went made sure we were doing ok the campsite no words can describe AMAZING clean very family friendly buddy sites are great can't say enough about this place LOVE LOVE LOVE !!!!!!!!!!!!",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/memorial-weekend-5.jpg"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "f3157b6"
+    },
+    {
+      "type": "section",
+      "id": "f30326b",
+      "parent": "f3157b6"
+    },
+    {
+      "id": "f8314a1",
+      "container": "f30326b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "About"
+    },
+    {
+      "id": "ed73fcf",
+      "container": "f30326b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "5.0"
+    },
+    {
+      "id": "bfcdd10",
+      "container": "f30326b",
+      "type": "progress",
+      "title": "Location",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "6c1f9c6",
+      "container": "f30326b",
+      "type": "progress",
+      "title": "Cleanliness",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "c9b592a",
+      "container": "f30326b",
+      "type": "progress",
+      "title": "Service",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "8276d65",
+      "container": "f30326b",
+      "type": "progress",
+      "title": "Value",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "243083d",
+      "container": "f30326b",
+      "type": "text-editor",
+      "html": "<p>Willow Valley RV Resort is Northeast Ga’s luxurious campground with 58 sites. All sites are full hook up, 30/50 AMPs and we are located in the beautiful Blue Ridge Mountains. We are just 2 hours north of Atlanta, Ga. and 2 hours south of Asheville, NC. Our resort is a wonderful place to vacation. Some of our amenities include, swimming pool with a wading area for younger children, playground, community fire pit, 6 private baths, laundry room and much more. We are set amidst NE Ga’s awesome hiking trails, minutes to Lake Burton, Lake Rabun and Lake Seed, Vineyards, and lots of outdoor mountain adventures. Come and experience our 4 distinct seasons with us in the NE corner of Georgia.</p>"
+    },
+    {
+      "id": "234dc65",
+      "container": "f30326b",
+      "type": "google_maps",
+      "src": "https://maps.google.com/maps?q=323%20Yorkhouse%20Road%20Rd%2C%20Rabun%20Gap%2C%20GA%2030568-2428&t=m&z=10&output=embed&iwloc=near",
+      "title": "323 Yorkhouse Road Rd, Rabun Gap, GA 30568-2428"
+    },
+    {
+      "id": "bbb16d2",
+      "container": "f30326b",
+      "type": "icon",
+      "icon": "fas fa-location-arrow"
+    },
+    {
+      "id": "7f230a3",
+      "container": "f30326b",
+      "type": "text-editor",
+      "html": "<p>323 Yorkhouse Road Rd, Rabun Gap, GA 30568-2428</p>"
+    },
+    {
+      "type": "section",
+      "id": "bcd053d",
+      "parent": "f3157b6"
+    }
+  ],
+  "backgrounds": {}
+}

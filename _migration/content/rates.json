@@ -1,0 +1,433 @@
+{
+  "url": "https://willowvalleyrv.com/rates/",
+  "slug": "rates",
+  "path": "/rates/",
+  "title": "Rates – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "9e63dee"
+    },
+    {
+      "id": "9e635bb",
+      "container": "9e63dee",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Rates"
+    },
+    {
+      "id": "79b5590",
+      "container": "9e63dee",
+      "type": "divider"
+    },
+    {
+      "id": "57525b0",
+      "container": "9e63dee",
+      "type": "heading",
+      "tag": "h2",
+      "text": "DEC 1st - MAR 31st"
+    },
+    {
+      "type": "section",
+      "id": "fda07f7"
+    },
+    {
+      "id": "a37c393",
+      "container": "fda07f7",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Daily"
+    },
+    {
+      "id": "37a7615",
+      "container": "fda07f7",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft or less) ECONOMY"
+    },
+    {
+      "id": "442bc78",
+      "container": "fda07f7",
+      "type": "text-editor",
+      "html": "<p>$49.00</p>"
+    },
+    {
+      "id": "2f60f8c",
+      "container": "fda07f7",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft - 39ft) PREMIUM"
+    },
+    {
+      "id": "4eb7ab1",
+      "container": "fda07f7",
+      "type": "text-editor",
+      "html": "<p>$54.00</p>"
+    },
+    {
+      "id": "632f8df",
+      "container": "fda07f7",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(40ft+) SUPER PREMIUM GRAVEL PULL THROUGH"
+    },
+    {
+      "id": "b074c03",
+      "container": "fda07f7",
+      "type": "text-editor",
+      "html": "<p>$64.00</p>"
+    },
+    {
+      "id": "14fe9cf",
+      "container": "fda07f7",
+      "type": "heading",
+      "tag": "h2",
+      "text": "PAVED RIVER SITES/ PULL THRU /"
+    },
+    {
+      "id": "59a5086",
+      "container": "fda07f7",
+      "type": "text-editor",
+      "html": "<p>$74.00</p>"
+    },
+    {
+      "type": "section",
+      "id": "f3c3b1b"
+    },
+    {
+      "id": "00585f5",
+      "container": "f3c3b1b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Weekly"
+    },
+    {
+      "id": "d38cda8",
+      "container": "f3c3b1b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft or less) ECONOMY"
+    },
+    {
+      "id": "5004dc2",
+      "container": "f3c3b1b",
+      "type": "text-editor",
+      "html": "<p>$ 42.85 /<br>night – $300</p>"
+    },
+    {
+      "id": "40326f7",
+      "container": "f3c3b1b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft - 39ft) PREMIUM"
+    },
+    {
+      "id": "a992ac8",
+      "container": "f3c3b1b",
+      "type": "text-editor",
+      "html": "<p>$ 46.42 /<br>night – $325</p>"
+    },
+    {
+      "id": "6fdb720",
+      "container": "f3c3b1b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(40ft+) SUPER PREMIUM GRAVEL"
+    },
+    {
+      "id": "15c7257",
+      "container": "f3c3b1b",
+      "type": "text-editor",
+      "html": "<p>$ 57.19 /<br>night – $400</p>"
+    },
+    {
+      "id": "b3f1e56",
+      "container": "f3c3b1b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "PAVED RIVER SITES/ PULL THRU /"
+    },
+    {
+      "id": "64cabd8",
+      "container": "f3c3b1b",
+      "type": "text-editor",
+      "html": "<p>$ 67.85/night – $475</p>"
+    },
+    {
+      "type": "section",
+      "id": "e328a01"
+    },
+    {
+      "id": "cd89d68",
+      "container": "e328a01",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Monthly"
+    },
+    {
+      "id": "8ee205c",
+      "container": "e328a01",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft or less) ECONOMY"
+    },
+    {
+      "id": "e9cbfd8",
+      "container": "e328a01",
+      "type": "text-editor",
+      "html": "<p>$ 21.67/night – <br>$650</p>"
+    },
+    {
+      "id": "163b965",
+      "container": "e328a01",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft - 39ft) PREMIUM"
+    },
+    {
+      "id": "a586c8c",
+      "container": "e328a01",
+      "type": "text-editor",
+      "html": "<p>$ 23.33/night – <br>$700</p>"
+    },
+    {
+      "id": "c3b4a88",
+      "container": "e328a01",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(40ft+) SUPER PREMIUM GRAVEL"
+    },
+    {
+      "id": "9cde0af",
+      "container": "e328a01",
+      "type": "text-editor",
+      "html": "<p>$ 25.00/night – <br>$750</p>"
+    },
+    {
+      "id": "98fe952",
+      "container": "e328a01",
+      "type": "heading",
+      "tag": "h2",
+      "text": "PAVED RIVER SITES/ PULL THRU /"
+    },
+    {
+      "id": "a2eaf35",
+      "container": "e328a01",
+      "type": "text-editor",
+      "html": "<p>$ 30.00/night – <br>$900</p>"
+    },
+    {
+      "type": "section",
+      "id": "02cb30c"
+    },
+    {
+      "id": "a2bc9ca",
+      "container": "02cb30c",
+      "type": "heading",
+      "tag": "h2",
+      "text": "APRIL 1st - NOV 30th"
+    },
+    {
+      "type": "section",
+      "id": "6b39646"
+    },
+    {
+      "id": "19e7a77",
+      "container": "6b39646",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Daily"
+    },
+    {
+      "id": "765d30d",
+      "container": "6b39646",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft or less) ECONOMY"
+    },
+    {
+      "id": "4778166",
+      "container": "6b39646",
+      "type": "text-editor",
+      "html": "<p>$59.00</p>"
+    },
+    {
+      "id": "5ebb8be",
+      "container": "6b39646",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft - 39ft) PREMIUM"
+    },
+    {
+      "id": "e04222a",
+      "container": "6b39646",
+      "type": "text-editor",
+      "html": "<p>$69.00</p>"
+    },
+    {
+      "id": "6712f48",
+      "container": "6b39646",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(40ft+) SUPER PREMIUM GRAVEL PULL THROUGH"
+    },
+    {
+      "id": "20406f0",
+      "container": "6b39646",
+      "type": "text-editor",
+      "html": "<p>$79.00</p>"
+    },
+    {
+      "id": "c93474e",
+      "container": "6b39646",
+      "type": "heading",
+      "tag": "h2",
+      "text": "PAVED RIVER SITES/ PULL THRU /"
+    },
+    {
+      "id": "f4ca1f4",
+      "container": "6b39646",
+      "type": "text-editor",
+      "html": "<p>$89.00</p>"
+    },
+    {
+      "type": "section",
+      "id": "6372621"
+    },
+    {
+      "id": "3d13d50",
+      "container": "6372621",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Weekly"
+    },
+    {
+      "id": "18299eb",
+      "container": "6372621",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft or less) ECONOMY"
+    },
+    {
+      "id": "f1ffc12",
+      "container": "6372621",
+      "type": "text-editor",
+      "html": "<p>$ 50.00/night – <br>$350</p>"
+    },
+    {
+      "id": "ded8efe",
+      "container": "6372621",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft - 39ft) PREMIUM"
+    },
+    {
+      "id": "1b92a03",
+      "container": "6372621",
+      "type": "text-editor",
+      "html": "<p>$ 57.14/night – <br>$400</p>"
+    },
+    {
+      "id": "f764106",
+      "container": "6372621",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(40ft+) SUPER PREMIUM GRAVEL"
+    },
+    {
+      "id": "c6c32fd",
+      "container": "6372621",
+      "type": "text-editor",
+      "html": "<p>$ 71.42/night – <br>$500</p>"
+    },
+    {
+      "id": "9a292dc",
+      "container": "6372621",
+      "type": "heading",
+      "tag": "h2",
+      "text": "PAVED RIVER SITES/ PULL THRU /"
+    },
+    {
+      "id": "1e979a7",
+      "container": "6372621",
+      "type": "text-editor",
+      "html": "<p>$ 82.14/ night – <br>$575</p>"
+    },
+    {
+      "type": "section",
+      "id": "9c7c94b"
+    },
+    {
+      "id": "b980938",
+      "container": "9c7c94b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Monthly"
+    },
+    {
+      "id": "4331015",
+      "container": "9c7c94b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft or less) ECONOMY"
+    },
+    {
+      "id": "a14a5d6",
+      "container": "9c7c94b",
+      "type": "text-editor",
+      "html": "<p>$ 23.33/night – <br>$700</p>"
+    },
+    {
+      "id": "6560866",
+      "container": "9c7c94b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(30ft - 39ft) PREMIUM"
+    },
+    {
+      "id": "e73ae4e",
+      "container": "9c7c94b",
+      "type": "text-editor",
+      "html": "<p>$ 26.67/night- <br>$800</p>"
+    },
+    {
+      "id": "437048f",
+      "container": "9c7c94b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "(40ft+) SUPER PREMIUM GRAVEL"
+    },
+    {
+      "id": "30fdcd5",
+      "container": "9c7c94b",
+      "type": "text-editor",
+      "html": "<p>$ 30.00/night – <br>$900</p>"
+    },
+    {
+      "id": "c863843",
+      "container": "9c7c94b",
+      "type": "heading",
+      "tag": "h2",
+      "text": "PAVED RIVER SITES/ PULL THRU /"
+    },
+    {
+      "id": "9eae016",
+      "container": "9c7c94b",
+      "type": "text-editor",
+      "html": "<p>$36.66/night- $1,100</p>"
+    },
+    {
+      "type": "section",
+      "id": "1628588"
+    },
+    {
+      "id": "8cd4255",
+      "container": "1628588",
+      "type": "text-editor",
+      "html": "<div><div><div><div><p>3 NIGHT MINIMUM STAY ON HOLIDAYS</p><p>CANCELLATION POLICY: MUST CALL 5 DAYS BEFORE YOUR ARRIVAL DATE TO RECEIVE DEPOSIT, MINUS A PROCESSING FEE.</p></div></div><div><div><p>25% DEPOSIT REQUIRED FOR MONTHLY SITES.</p><p>MONTHLY CANCELLATION POLICY: MUST CANCEL 14 DAYS PROPR TO ARRIVAL DATE TO HAVE DEPOSIT REFUNDED, MINUS A PROCESSING FEE</p></div></div></div></div>"
+    }
+  ],
+  "backgrounds": {}
+}

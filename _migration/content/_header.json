@@ -1,0 +1,25 @@
+[
+  {
+    "type": "section",
+    "id": "5342d269"
+  },
+  {
+    "id": "6e7ace9d",
+    "container": "5342d269",
+    "type": "theme-site-logo",
+    "text": ""
+  },
+  {
+    "id": "28302925",
+    "container": "5342d269",
+    "type": "nav-menu",
+    "text": "About Us Amenities Rates RV Rentals Rules Local Attractions Park Map Upcoming Events Gallery Drone Video Customer Reviews Pool Use Form Virtual Tour Contact Us About Us Amenities Rates RV Rentals Rules Local Attractions Park Map Upcoming Events Gallery Drone Video Customer Reviews Pool Use Form Virtual Tour Contact Us"
+  },
+  {
+    "id": "54e55839",
+    "container": "5342d269",
+    "type": "button",
+    "text": "Book Now",
+    "href": "https://willow.bookmysites.com/reservations/checkout-availability"
+  }
+]

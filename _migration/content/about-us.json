@@ -1,0 +1,236 @@
+{
+  "url": "https://willowvalleyrv.com/about-us/",
+  "slug": "about-us",
+  "path": "/about-us/",
+  "title": "About Us – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "2684add"
+    },
+    {
+      "id": "b0af5f4",
+      "container": "2684add",
+      "type": "heading",
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "id": "0194376",
+      "container": "2684add",
+      "type": "divider"
+    },
+    {
+      "id": "425d53f",
+      "container": "2684add",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2025/10/Drone-Pic-1.png",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2025/10/Drone-Pic-1.png",
+      "alt": "",
+      "w": 800,
+      "h": 448,
+      "caption": ""
+    },
+    {
+      "type": "section",
+      "id": "14c9d98"
+    },
+    {
+      "id": "6c937e1",
+      "container": "14c9d98",
+      "type": "text-editor",
+      "html": "<p>Willow Valley RV Resort is Northeast Ga’s newest luxurious campground. Located in the beautiful Blue Ridge Mountains. We are just 2 hours north of Atlanta, Ga. and 2 hours south of Asheville, NC.</p><p>Our resort is a wonderful place to vacation. Some of our amenities include, swimming pool with a wading area for younger children, playground, community fire pit, 6 private baths, laundry room and much more. We are set amidst NE Ga’s awesome hiking trails, minutes to Lake Burton, Lake Rabun and Lake Seed, Vineyards, and lots of outdoor mountain adventures. Come and experience our 4 distinct seasons with us in the NE corner of Georgia.</p><p><b>I Hear The Mountains Calling, And I Must Go!!!!</b></p>"
+    },
+    {
+      "id": "179b82d",
+      "container": "14c9d98",
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "id": "efd5111"
+    },
+    {
+      "id": "6f607a5",
+      "container": "efd5111",
+      "type": "heading",
+      "tag": "h2",
+      "text": "About"
+    },
+    {
+      "type": "section",
+      "id": "845e7d5",
+      "parent": "efd5111"
+    },
+    {
+      "id": "b4084e0",
+      "container": "845e7d5",
+      "type": "heading",
+      "tag": "h2",
+      "text": "5.0"
+    },
+    {
+      "id": "d6ecfa6",
+      "container": "845e7d5",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Excellent"
+    },
+    {
+      "id": "9218b13",
+      "container": "845e7d5",
+      "type": "star-rating",
+      "rating": "Rated 5 out of 5",
+      "title": ""
+    },
+    {
+      "id": "b975630",
+      "container": "845e7d5",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Property amenities"
+    },
+    {
+      "type": "section",
+      "id": "5e60b69"
+    },
+    {
+      "id": "54d4329",
+      "container": "5e60b69",
+      "type": "progress",
+      "title": "Location",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "7aa16dd",
+      "container": "5e60b69",
+      "type": "progress",
+      "title": "Cleanliness",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "c9ce8d5",
+      "container": "5e60b69",
+      "type": "progress",
+      "title": "Service",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "10d3e76",
+      "container": "5e60b69",
+      "type": "progress",
+      "title": "Value",
+      "percent": "100",
+      "inner": ""
+    },
+    {
+      "id": "b921952",
+      "container": "5e60b69",
+      "type": "text-editor",
+      "html": "<p>Willow Valley RV Resort is Northeast Ga’s luxurious campground with 58 sites. All sites are full hook up, 30/50 AMPs and we are located in the beautiful Blue Ridge Mountains. We are just 2 hours north of Atlanta, Ga. and 2 hours south of Asheville, NC. Our resort is a wonderful place to vacation. Some of our amenities include, swimming pool with a wading area for younger children, playground, community fire pit, 6 private baths, laundry room and much more. We are set amidst NE Ga’s awesome hiking trails, minutes to Lake Burton, Lake Rabun and Lake Seed, Vineyards, and lots of outdoor mountain adventures. Come and experience our 4 distinct seasons with us in the NE corner of Georgia.</p>"
+    },
+    {
+      "id": "ecef008",
+      "container": "5e60b69",
+      "type": "icon"
+    },
+    {
+      "id": "61a6027",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Free parking"
+    },
+    {
+      "id": "3d04d9f",
+      "container": "5e60b69",
+      "type": "icon"
+    },
+    {
+      "id": "3f76f59",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Pool"
+    },
+    {
+      "id": "c98b3f5",
+      "container": "5e60b69",
+      "type": "icon",
+      "icon": "fas fa-tv"
+    },
+    {
+      "id": "fa2656f",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Cable TV"
+    },
+    {
+      "id": "2ada2f8",
+      "container": "5e60b69",
+      "type": "icon"
+    },
+    {
+      "id": "5d5d773",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Children's playground"
+    },
+    {
+      "id": "7134228",
+      "container": "5e60b69",
+      "type": "icon"
+    },
+    {
+      "id": "0715e79",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Free High Speed Internet (WiFi)"
+    },
+    {
+      "id": "926751e",
+      "container": "5e60b69",
+      "type": "icon"
+    },
+    {
+      "id": "08610b0",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Hiking"
+    },
+    {
+      "id": "06766c1",
+      "container": "5e60b69",
+      "type": "icon"
+    },
+    {
+      "id": "adeba34",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Books"
+    },
+    {
+      "id": "f8146a7",
+      "container": "5e60b69",
+      "type": "icon"
+    },
+    {
+      "id": "2daa587",
+      "container": "5e60b69",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Music For Children"
+    }
+  ],
+  "backgrounds": {}
+}

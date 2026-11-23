@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-ssr/
+.env
+.env.local
+.claude/
+.gh-login.log*
+# Large migration archive: keep it backed up, but out of git.
+_migration/originals/

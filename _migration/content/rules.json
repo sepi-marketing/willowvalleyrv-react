@@ -1,0 +1,63 @@
+{
+  "url": "https://willowvalleyrv.com/rules/",
+  "slug": "rules",
+  "path": "/rules/",
+  "title": "Rules – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "6e7c3c1"
+    },
+    {
+      "id": "829a576",
+      "container": "6e7c3c1",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Rules"
+    },
+    {
+      "id": "1396779",
+      "container": "6e7c3c1",
+      "type": "divider"
+    },
+    {
+      "id": "9d5ae53",
+      "container": "6e7c3c1",
+      "type": "text-editor",
+      "html": "<ul><li>Upon arrival all Guests must stop at the Office and check in.</li><li>All visitors must check in with the office.</li><li>No more than 2 cars on site. Additional vehicles will be moved to over flow.</li><li>Under NO circumstances will you park any vehicles on the grass.</li><li>Check in time is 1:00 pm</li><li>Check out time is by 11:00 am.</li><li>Quiet time is between 10:00 pm and 8:00 am.</li><li>Pool Hours are: Opening 10:00 am – Closing 9:00 pm.</li><li>Speed limit is 10 MPH throughout the park.</li><li>NO Drones are allowed on Property.</li><li>Parents are responsible for the safety and actions of their children. Willow Valley RV Resort and Management assumes NO responsibility for any Injury to Guest or unsupervised children on property.</li><li>We offer daily Garbage pickup. Please have your garbage out by the road at 10:00 am for pickup. We will only pick up garbage once a day. Please do not leave garbage out overnight. It will attract wildlife.</li><li>Camp Fires are allowed only in pits at least 6 inches off the ground.</li><li>Do not empty your campfire ashes on the campsite.</li><li>Fireworks and fire arms are prohibited.</li><li>Bathhouse and Laundry are open 24 hours.</li><li>The management / Owner of Willow Valley Campground will not be held responsible for property damage, theft or your personal safety.</li><li><strong>NO</strong> parking in empty sites.</li><li><em>The site you </em><em>choose is not a guarantee</em>, but we will try our best to accommodate your preference.</li><li><b>PET RULES:</b> Pets must be on a leash any time outside your RV. Please do not allow your pet to go on our trees or shrubs and pick up all pet litter. Please never leave your pet tied outside your RV in your absence. Your Pets are your responsibility. They are not allowed in any buildings (Office, Bath House, Pool Area). Please do not leave barking dogs unattended in your camper.</li><li><b>POOL RULES:</b>&nbsp;Children under the age of 14 must have adult supervision at all times. Children that cannot swim are not permitted in the pool without a life preserver.</li><li>No glass containers of any kind in or around the pool area.</li><li><strong>POOL HOURS:</strong> 10:00AM – 9:00PM.</li><li>Absolutely no one is allowed on the Private Property past the white fence. Please make sure that your Children abide by the rules. This includes the pond area and the farm animal pens. Be aware that the farm animal pens have electrically charged fencing. Willow Valley RV Resort and Management is not responsible for any Injury to Guest or Children incurred from trespassing on this private Property.</li><li>All facilities used by Guest and Visitors are used at your own risk.</li><li>NO POP-UP CANOPIES WITH FLOORING OR SIDES ALLOWED ON THE GRASS.<br><b><b><br>CANCELLATION POLICY FOR REGULAR DAILY RATES</b></b></li><li>Reservations are highly recommended and require a one night deposit with a credit card to guarantee your site.</li><li>Reservation changes will be allowed if you call before your arrival date.</li><li>Reservations made the same day as arrival require payment in full at time of booking and are non-refundable.</li><li>By providing a credit card number, you are authorizing Willow Valley RV Resort the right to bill your credit card for any unpaid balance, costs accrued &amp; damaged property not paid at the time of departure.</li><li>NO REFUNDS, credits or prorating for early departures under any circumstances.</li><li>NO REFUNDS or credits will be given for cancellations made 5 days or less prior to your arrival date.</li><li>There will be a $20.00 cancellation fee for all cancellations.</li><li>NO REFUNDS or credits will be given to NO call / NO show.</li><li>Five days full balance of your reservation will be charged to your account with absolutely no refunds.</li><li>No discounts will be given on weekly or monthly rentals as these are already discounted.<p><b></b><b></b><b></b><b></b><b>NOTICE TO GUEST</b></p></li><li>The camper accepts camping privileges with the understanding that he/she does hereby release the Campground, its officers and employees of all liability for loss or damage to property and injury to his/her person arising out of the use of its camping facilities, and agrees to indemnify the Campground, its officers and employees, against claims resulting from loss or damage to property or injury to the person of any member of the family or guest of the registered camper arising out of the use of its camping facilities.</li><li>Thank you for complying with these guest rules you were given upon check in. Your compliance in helping preserve the safety, cleanliness and quality environment that we strive to provide is greatly appreciated.</li><li>I have read and understand all Rules and Conditions of Willow Valley RV Park.</li><li>Tow car cannot be used for sleeping accommodation</li></ul>"
+    },
+    {
+      "id": "4152c67",
+      "container": "6e7c3c1",
+      "type": "divider"
+    },
+    {
+      "id": "ca7a71b",
+      "container": "6e7c3c1",
+      "type": "gallery",
+      "widget": "media-carousel",
+      "items": [
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/09/1.png",
+          "alt": "1"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/09/2.jpg",
+          "alt": "2"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/09/3.jpg",
+          "alt": "3"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/09/4.jpg",
+          "alt": "4"
+        }
+      ],
+      "captions": []
+    }
+  ],
+  "backgrounds": {}
+}

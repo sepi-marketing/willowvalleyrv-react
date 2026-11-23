@@ -1,0 +1,32 @@
+{
+  "name": "willowvalleyrv-react",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Willow Valley RV Resort — React rebuild of willowvalleyrv.com",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && vite build --ssr src/entry-server.jsx --outDir dist-ssr && node scripts/prerender.mjs",
+    "preview": "vite preview --port 4173",
+    "migrate:crawl": "node scripts/crawl.mjs",
+    "migrate:extract": "node scripts/extract.mjs",
+    "migrate:download": "node scripts/download-media.mjs",
+    "migrate:optimize": "node scripts/optimize-media.mjs",
+    "migrate:galleries": "node scripts/build-galleries.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "11.11.17",
+    "lenis": "1.1.18",
+    "lottie-web": "5.12.2",
+    "lucide-react": "0.460.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "cheerio": "1.0.0",
+    "sharp": "0.33.5",
+    "vite": "5.4.11"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "url": "https://willowvalleyrv.com/rv-rentals/",
+  "slug": "rv-rentals",
+  "path": "/rv-rentals/",
+  "title": "RV Rentals – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "7a231f3"
+    },
+    {
+      "id": "1ccf823",
+      "container": "7a231f3",
+      "type": "heading",
+      "tag": "h2",
+      "text": "RV Rentals"
+    },
+    {
+      "type": "section",
+      "id": "fb6ccbc",
+      "parent": "7a231f3"
+    },
+    {
+      "id": "a50ad40",
+      "container": "fb6ccbc",
+      "type": "gallery",
+      "widget": "image-carousel",
+      "items": [
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4198.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4198-768x1024.jpeg",
+          "alt": "IMG_4198"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4185.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4185-768x1024.jpeg",
+          "alt": "IMG_4185"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4180.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4180-768x1024.jpeg",
+          "alt": "IMG_4180"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4181.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4181-768x1024.jpeg",
+          "alt": "IMG_4181"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4178.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4178-768x1024.jpeg",
+          "alt": "IMG_4178"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4179.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4179-768x1024.jpeg",
+          "alt": "IMG_4179"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4182.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4182-768x1024.jpeg",
+          "alt": "IMG_4182"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4183.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4183-768x1024.jpeg",
+          "alt": "IMG_4183"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4184.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4184-768x1024.jpeg",
+          "alt": "IMG_4184"
+        }
+      ],
+      "captions": []
+    },
+    {
+      "id": "f4e4b78",
+      "container": "fb6ccbc",
+      "type": "heading",
+      "tag": "h2",
+      "text": "LAREDO - 32 ft long"
+    },
+    {
+      "id": "7c1cc71",
+      "container": "fb6ccbc",
+      "type": "text-editor",
+      "html": "<p>The LAREDO is a spacious 32-ft RV rental designed for comfort and convenience, sleeping up to 6 guests—perfect for families or small groups. Enjoy a relaxing stay with water, sewer, cable, and high-speed internet all included, along with full access to community amenities. Rates are $150 per night (3-night minimum), $1,000 weekly, or $1,800 monthly, making it a great option for both short getaways and extended stays. Please note, no pets are allowed.</p>"
+    },
+    {
+      "id": "3e2de0b",
+      "container": "fb6ccbc",
+      "type": "icon-list",
+      "items": [
+        {
+          "text": "Sleeps 6"
+        },
+        {
+          "text": "$180 per night / 3 night min"
+        },
+        {
+          "text": "$1000 Weekly"
+        },
+        {
+          "text": "$1800 Monthly"
+        },
+        {
+          "text": "No pets"
+        },
+        {
+          "text": "Water, Sewer"
+        },
+        {
+          "text": "Cable and High Speed Internet"
+        },
+        {
+          "text": "Includes all amenities"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "9fb3d9d",
+      "parent": "7a231f3"
+    },
+    {
+      "id": "66f9d5f",
+      "container": "9fb3d9d",
+      "type": "gallery",
+      "widget": "image-carousel",
+      "items": [
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4196-scaled.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4196-scaled.jpeg",
+          "alt": "IMG_4196"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4195-scaled.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4195-scaled.jpeg",
+          "alt": "IMG_4195"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4194-scaled.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4194-scaled.jpeg",
+          "alt": "IMG_4194"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4193-scaled.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4193-scaled.jpeg",
+          "alt": "IMG_4193"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4191-scaled.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4191-scaled.jpeg",
+          "alt": "IMG_4191"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4192-scaled.jpeg",
+          "src": "https://willowvalleyrv.com/wp-content/uploads/2026/02/IMG_4192-scaled.jpeg",
+          "alt": "IMG_4192"
+        }
+      ],
+      "captions": []
+    },
+    {
+      "id": "6acbb61",
+      "container": "9fb3d9d",
+      "type": "heading",
+      "tag": "h2",
+      "text": "ROCKWOOD -26 ft"
+    },
+    {
+      "id": "83347fe",
+      "container": "9fb3d9d",
+      "type": "text-editor",
+      "html": "<p>The ROCKWOOD is a cozy 26-ft RV rental perfect for couples, comfortably sleeping 2 guests. Ideal for a peaceful getaway or extended stay, this unit includes water, sewer, lot fee, cable, and high-speed internet, along with full access to all community amenities. Rates are $150 per night (3-night minimum), $800 weekly, or $1,500 monthly. Please note, no pets are allowed.</p>"
+    },
+    {
+      "id": "36b8afc",
+      "container": "9fb3d9d",
+      "type": "icon-list",
+      "items": [
+        {
+          "text": "Sleeps 2"
+        },
+        {
+          "text": "3 night minimum"
+        },
+        {
+          "text": "No Pets allowed"
+        },
+        {
+          "text": "Includes use of the amenities"
+        },
+        {
+          "text": "Water, Sewer, Lot Fee"
+        },
+        {
+          "text": "Cable"
+        },
+        {
+          "text": "High Speed Internet"
+        },
+        {
+          "text": "Fees: $150.00 nightly - 3 night min"
+        },
+        {
+          "text": "$800 weekly"
+        },
+        {
+          "text": "$1500 monthly"
+        }
+      ]
+    }
+  ],
+  "backgrounds": {}
+}

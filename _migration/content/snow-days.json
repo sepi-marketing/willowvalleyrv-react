@@ -1,0 +1,80 @@
+{
+  "url": "https://willowvalleyrv.com/snow-days/",
+  "slug": "snow-days",
+  "path": "/snow-days/",
+  "title": "Snow Days – Willow Valley RV",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "f018564"
+    },
+    {
+      "id": "927ff74",
+      "container": "f018564",
+      "type": "gallery",
+      "widget": "gallery",
+      "items": [
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2054-scaled.jpg",
+          "alt": "IMG_2054"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2048-scaled.jpg",
+          "alt": "IMG_2048"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2046-scaled.jpg",
+          "alt": "IMG_2046"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2041-scaled.jpg",
+          "alt": "IMG_2041"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2058-scaled.jpg",
+          "alt": "IMG_2058"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2056-scaled.jpg",
+          "alt": "IMG_2056"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2055-scaled.jpg",
+          "alt": "IMG_2055"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2054-225x300.jpg",
+          "alt": ""
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2048-225x300.jpg",
+          "alt": ""
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2046-225x300.jpg",
+          "alt": ""
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2041-225x300.jpg",
+          "alt": ""
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2058-225x300.jpg",
+          "alt": ""
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2056-225x300.jpg",
+          "alt": ""
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/01/IMG_2055-225x300.jpg",
+          "alt": ""
+        }
+      ],
+      "captions": []
+    }
+  ],
+  "backgrounds": {}
+}

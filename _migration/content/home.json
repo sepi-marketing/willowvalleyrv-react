@@ -1,0 +1,480 @@
+{
+  "url": "https://willowvalleyrv.com/",
+  "slug": "home",
+  "path": "/",
+  "title": "Willow Valley RV – Campgrounds In Dillard Georgia",
+  "description": "",
+  "pageHeader": "",
+  "blocks": [
+    {
+      "type": "section",
+      "id": "4817e77",
+      "bgSlideshow": [
+        "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_6442-1-scaled.jpg",
+        "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_4705-scaled.jpg",
+        "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_4689-scaled.jpg",
+        "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_3791-scaled.jpg",
+        "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_3748-1.jpg"
+      ]
+    },
+    {
+      "id": "4f43e46",
+      "container": "4817e77",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Willow Valley RV Resort"
+    },
+    {
+      "id": "6533e0d",
+      "container": "4817e77",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Campgrounds in Dillard, Georgia."
+    },
+    {
+      "id": "3f470a0",
+      "container": "4817e77",
+      "type": "button",
+      "text": "BOOK NOW!",
+      "href": "https://willow.bookmysites.com/reservations/checkout-availability"
+    },
+    {
+      "type": "section",
+      "id": "ca160e4"
+    },
+    {
+      "id": "a2bb692",
+      "container": "ca160e4",
+      "type": "gallery",
+      "widget": "media-carousel",
+      "items": [
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_3748-1.jpg",
+          "alt": "IMG_3748 (1)"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_3791-scaled.jpg",
+          "alt": "IMG_3791"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_4689-scaled.jpg",
+          "alt": "IMG_4689"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_4705-scaled.jpg",
+          "alt": "IMG_4705"
+        },
+        {
+          "original": "https://willowvalleyrv.com/wp-content/uploads/2025/12/IMG_6442-1-scaled.jpg",
+          "alt": "IMG_6442 (1)"
+        }
+      ],
+      "captions": []
+    },
+    {
+      "id": "53d54f3",
+      "container": "ca160e4",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Welcome to Willow Valley RV Resort"
+    },
+    {
+      "id": "59ac7bc",
+      "container": "ca160e4",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Our new Summer Office Hours are from 9:00 am to 5:00 pm."
+    },
+    {
+      "id": "b992ddf",
+      "container": "ca160e4",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Due to the FREEZING temps that we have here in the mountains, you need to have a Heated Water Hose."
+    },
+    {
+      "type": "section",
+      "id": "1747633",
+      "parent": "ca160e4"
+    },
+    {
+      "id": "36a3f5b",
+      "container": "1747633",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Our new Summer Office Hours are from 9:00 am to 5:00 pm."
+    },
+    {
+      "id": "672d2d8",
+      "container": "1747633",
+      "type": "icon"
+    },
+    {
+      "type": "section",
+      "id": "d8340d9",
+      "parent": "ca160e4"
+    },
+    {
+      "id": "8a56c2f",
+      "container": "d8340d9",
+      "type": "lottie",
+      "src": "https://willowvalleyrv.sepimarketing.com/wp-content/uploads/2022/12/winter-holidays-1.json",
+      "settings": {
+        "source_json": {
+          "url": "https://willowvalleyrv.sepimarketing.com/wp-content/uploads/2022/12/winter-holidays-1.json",
+          "id": 963,
+          "size": "",
+          "alt": "",
+          "source": "library"
+        },
+        "source": "media_file",
+        "caption_source": "none",
+        "link_to": "none",
+        "trigger": "arriving_to_viewport",
+        "viewport": {
+          "unit": "%",
+          "size": "",
+          "sizes": {
+            "start": 0,
+            "end": 100
+          }
+        },
+        "play_speed": {
+          "unit": "px",
+          "size": 1,
+          "sizes": []
+        },
+        "start_point": {
+          "unit": "%",
+          "size": 0,
+          "sizes": []
+        },
+        "end_point": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "renderer": "svg"
+      }
+    },
+    {
+      "id": "bb9ee34",
+      "container": "d8340d9",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Winter Hrs"
+    },
+    {
+      "id": "9ff9c17",
+      "container": "d8340d9",
+      "type": "heading",
+      "tag": "h2",
+      "text": "MON - SAT 9:00AM TO 3:00 PM"
+    },
+    {
+      "id": "c75f1a9",
+      "container": "d8340d9",
+      "type": "heading",
+      "tag": "h2",
+      "text": "SUNDAYS 10:00 AM TO 3:00 PM."
+    },
+    {
+      "type": "section",
+      "id": "b957e03"
+    },
+    {
+      "id": "83d26ea",
+      "container": "b957e03",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Property amenities"
+    },
+    {
+      "type": "section",
+      "id": "0a6d3ea",
+      "parent": "b957e03"
+    },
+    {
+      "id": "cd139f6",
+      "container": "0a6d3ea",
+      "type": "icon"
+    },
+    {
+      "id": "635a6b6",
+      "container": "0a6d3ea",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Free parking"
+    },
+    {
+      "id": "82e07e3",
+      "container": "0a6d3ea",
+      "type": "icon"
+    },
+    {
+      "id": "c38cdb8",
+      "container": "0a6d3ea",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Pool"
+    },
+    {
+      "id": "9a5dc63",
+      "container": "0a6d3ea",
+      "type": "icon"
+    },
+    {
+      "id": "35fad20",
+      "container": "0a6d3ea",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Music for children"
+    },
+    {
+      "id": "5dd230e",
+      "container": "0a6d3ea",
+      "type": "icon"
+    },
+    {
+      "id": "1e4f7fe",
+      "container": "0a6d3ea",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Children's playground"
+    },
+    {
+      "id": "4d3ee6f",
+      "container": "0a6d3ea",
+      "type": "icon"
+    },
+    {
+      "id": "b328860",
+      "container": "0a6d3ea",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Free High Speed Internet (WiFi) Fiber Optics - 500 MB"
+    },
+    {
+      "type": "section",
+      "id": "dd2fc3c",
+      "parent": "b957e03"
+    },
+    {
+      "id": "c2815e7",
+      "container": "dd2fc3c",
+      "type": "icon"
+    },
+    {
+      "id": "c9840a5",
+      "container": "dd2fc3c",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Hiking"
+    },
+    {
+      "id": "e529288",
+      "container": "dd2fc3c",
+      "type": "icon"
+    },
+    {
+      "id": "cc29da8",
+      "container": "dd2fc3c",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Pets allowed"
+    },
+    {
+      "id": "44f0ac0",
+      "container": "dd2fc3c",
+      "type": "icon"
+    },
+    {
+      "id": "54caff3",
+      "container": "dd2fc3c",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Mountain View"
+    },
+    {
+      "id": "acd3929",
+      "container": "dd2fc3c",
+      "type": "icon"
+    },
+    {
+      "id": "28aa326",
+      "container": "dd2fc3c",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Books for kids"
+    },
+    {
+      "id": "09878ba",
+      "container": "b957e03",
+      "type": "button",
+      "text": "All Amentities",
+      "href": "https://willowvalleyrv.com/amenities/"
+    },
+    {
+      "type": "section",
+      "id": "2ce35cd"
+    },
+    {
+      "id": "3d67201",
+      "container": "2ce35cd",
+      "type": "icon",
+      "icon": "fab fa-tripadvisor"
+    },
+    {
+      "id": "5628807",
+      "container": "2ce35cd",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Reviews"
+    },
+    {
+      "type": "section",
+      "id": "bc945ea",
+      "parent": "2ce35cd"
+    },
+    {
+      "id": "cc6b3f8",
+      "container": "bc945ea",
+      "type": "heading",
+      "tag": "h2",
+      "text": "5.0"
+    },
+    {
+      "id": "663638e",
+      "container": "bc945ea",
+      "type": "star-rating",
+      "rating": "Rated 5 out of 5",
+      "title": ""
+    },
+    {
+      "id": "3909ec8",
+      "container": "bc945ea",
+      "type": "testimonial-carousel",
+      "items": [
+        {
+          "name": "Great RV park!Becky R",
+          "title": "Becky R",
+          "text": "Lovely RV park. Great location near lots of attractions, love the dog park with washing station, roomy, clean showers with good shelving for your toiletries, nice fire pit and great layout. Beautiful mountain views. Trash pickup every morning by your site. Already booked our next visit.",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/willow-valley-rv-resort-5.jpeg"
+        },
+        {
+          "name": "Such great ownersDebbie A",
+          "title": "Debbie A",
+          "text": "We had a 2 day stay at Willow Valley as we headed up to Sieverville, Tn. We had an issue with our breaks and called to say we might not make it on Friday. We got the issue handled enough to limp into Willow Valley late Friday evening. Sam tge owner came to check on us and told us of a Ford Dealership Duvall Ford that was owned by his friend Jeff. He called Jeff and got us in Saturday morning. The dealership was able to fix our truck. Without Sams help I don’t know what we would have done. Great RV park, Great owners and true southern hospitality.",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/willow-valley-rv-resort-4.jpeg"
+        },
+        {
+          "name": "Great spot to make homebasemidlifeadventurers",
+          "title": "midlifeadventurers",
+          "text": "The location is perfect, we loved our week long stay at Willow Valley. Clean, quiet and very helpful staff. They had a band here last weekend that we enjoyed. We were able to take short drives to some of the most scenic drives we have ever taken. We visited a couple of other resorts in the area and were not impressed at all..we will gladly share the resorts info. With family and friends. Thanks for all you do to make this place memorable for all who stay here.",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/willow-valley-rv-resort-3.jpeg"
+        },
+        {
+          "name": "AmazingSandra H",
+          "title": "Sandra H",
+          "text": "This campground was amazing our first time there was July 2-5 it was a special time for us as we are spreading my husbands ashes on his 1 year anniversary in heaven the staff were amazing and Mayor Puddin was the sweetest person you could ever meet he made the point of asking us how our day went made sure we were doing ok the campsite no words can describe AMAZING clean very family friendly buddy sites are great can't say enough about this place LOVE LOVE LOVE !!!!!!!!!!!!",
+          "rating": "",
+          "image": "https://willowvalleyrv.com/wp-content/uploads/2022/12/willow-valley-rv-resort-3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "7a08162",
+      "container": "bc945ea",
+      "type": "button",
+      "text": "Reviews",
+      "href": "https://willowvalleyrv.sepimarketing.com/customer-reviews/"
+    },
+    {
+      "type": "section",
+      "id": "85f6cc9"
+    },
+    {
+      "type": "section",
+      "id": "71672bd",
+      "parent": "85f6cc9"
+    },
+    {
+      "id": "12bb223",
+      "container": "71672bd",
+      "type": "google_maps",
+      "src": "https://maps.google.com/maps?q=323%20Yorkhouse%20Road%20Rabun%20Gap%2C%20GA%2030568&t=m&z=10&output=embed&iwloc=near",
+      "title": "323 Yorkhouse Road Rabun Gap, GA 30568"
+    },
+    {
+      "id": "eff485b",
+      "container": "71672bd",
+      "type": "image",
+      "src": "https://willowvalleyrv.com/wp-content/uploads/2022/12/Campground-news.png",
+      "original": "https://willowvalleyrv.com/wp-content/uploads/2022/12/Campground-news.png",
+      "alt": "",
+      "w": 325,
+      "h": 197,
+      "caption": ""
+    },
+    {
+      "id": "7d6dc65",
+      "container": "71672bd",
+      "type": "heading",
+      "tag": "h2",
+      "text": "Willow Valley RV Resort is Northeast Ga’s luxurious campground. Located in the beautiful Blue Ridge Mountains. We are just 2 hours north of Atlanta, Ga. and 2 hours south of Asheville, NC."
+    },
+    {
+      "id": "e41dceb",
+      "container": "71672bd",
+      "type": "toggle",
+      "items": [
+        {
+          "title": "News #1",
+          "html": "<p>“Looking to host a Rally, Family Reunions or a Get Away with friends and family, then Willow Valley RV Campground is the perfect place for you. Call us to inquire about our group rates.”</p>"
+        },
+        {
+          "title": "News #2",
+          "html": "<p>“All campers, travel trailers or class a, that are over 10 years old must be approved by management. please call our office for details.”</p>"
+        },
+        {
+          "title": "News #3",
+          "html": "<p>PHASE 2 SITES ARE NOW OPEN, 22 paved sites with river view sites available.</p>"
+        },
+        {
+          "title": "News #4",
+          "html": "<p>Due to the FREEZING temps that we have here in the mountains, you need to have a Heated Water Hose.</p>"
+        },
+        {
+          "title": "News #5",
+          "html": "<p>Our new Summer Office Hours are from 9:00 am to 5:00 pm.</p><p>Winter Hrs: MON – SAT 9:00AM TO 3:00 PM</p><p>SUNDAYS 10:00 AM TO 3:00 PM.</p>"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "1344dc8"
+    },
+    {
+      "id": "1942573",
+      "container": "1344dc8",
+      "type": "video",
+      "settings": {
+        "video_type": "hosted"
+      },
+      "html": "<video class=\"elementor-video\" src=\"https://willowvalleyrv.com/wp-content/uploads/2026/08/IMG_8127.mov\" controls=\"\" preload=\"metadata\" controlslist=\"nodownload\"></video>"
+    },
+    {
+      "id": "f777c04",
+      "container": "1344dc8",
+      "type": "video",
+      "settings": {
+        "video_type": "hosted"
+      },
+      "html": "<video class=\"elementor-video\" src=\"https://willowvalleyrv.com/wp-content/uploads/2026/08/IMG_8105.mov\" controls=\"\" preload=\"metadata\" controlslist=\"nodownload\"></video>"
+    }
+  ],
+  "backgrounds": {}
+}
